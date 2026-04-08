@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite demo outputs
+*.db
+*.db-journal
+*.sqlite3
+
+# Generated learning artifacts from example runs
+topics/05_files_and_serialization/sample_orders.csv
+topics/05_files_and_serialization/sample_orders.json
+topics/08_data_processing_with_sqlite/warehouse.db
+projects/01_sales_csv_to_warehouse/sales_input.csv
+projects/02_api_to_reporting_mart/api_orders.json
+projects/03_data_quality_monitor/quality_report.json
+
+# Scratch verification files
+scratch.db
+scratch_memory.db
