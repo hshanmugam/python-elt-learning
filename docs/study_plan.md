@@ -44,3 +44,41 @@
 - Project 3
 - Review all quizzes and repeat weak topics
 - Outcome: finish with a small portfolio of data engineering practice work
+
+## Advanced 7-Week Extension
+
+### Week 9
+
+- Topic 9: NumPy for Data Engineering
+- Outcome: understand vectorized numeric processing and array thinking
+
+### Week 10
+
+- Topic 10: Pandas for ETL
+- Outcome: perform DataFrame-based transformations and aggregations
+
+### Week 11
+
+- Topic 11: Working with APIs
+- Topic 12: Python Database Libraries
+- Outcome: move data between applications, Python, and relational systems
+
+### Week 12
+
+- Topic 13: Testing Data Pipelines
+- Outcome: build confidence in transformation and validation logic
+
+### Week 13
+
+- Topic 14: Scheduling and Orchestration
+- Outcome: understand how pipelines run reliably over time
+
+### Week 14
+
+- Topic 15: Warehouse-Style Transformations
+- Outcome: model staging, facts, dimensions, and curated analytics layers
+
+### Week 15
+
+- Projects 4, 5, and 6
+- Outcome: complete advanced hands-on scenarios that combine code, data modeling, and orchestration thinking

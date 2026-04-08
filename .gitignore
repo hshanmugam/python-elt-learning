@@ -11,10 +11,17 @@ __pycache__/
 topics/05_files_and_serialization/sample_orders.csv
 topics/05_files_and_serialization/sample_orders.json
 topics/08_data_processing_with_sqlite/warehouse.db
+topics/11_working_with_apis/api_payload.json
+topics/12_python_database_libraries/db_library_demo.sqlite3
+topics/15_warehouse_style_transformations/warehouse_transform_demo.sqlite3
 projects/01_sales_csv_to_warehouse/sales_input.csv
 projects/02_api_to_reporting_mart/api_orders.json
 projects/03_data_quality_monitor/quality_report.json
+projects/04_incremental_api_loader/state.json
+projects/04_incremental_api_loader/raw_incremental_payload.json
+projects/06_star_schema_reporting/star_schema_demo.sqlite3
 
 # Scratch verification files
 scratch.db
+scratch.db-journal
 scratch_memory.db

@@ -17,7 +17,7 @@ This repository is a hands-on learning path for mastering Python concepts used i
 
 1. [Roadmap](C:\Projects\Etl-Elt\LearnPython\docs\roadmap.md)
 2. [Study Plan](C:\Projects\Etl-Elt\LearnPython\docs\study_plan.md)
-3. Topic 1 through Topic 8 in order
+3. Topic 1 through Topic 15 in order
 4. Mini projects after completing the related topics
 
 ## Repository structure
@@ -33,3 +33,13 @@ python topics\01_python_foundations\example.py
 python topics\05_files_and_serialization\example.py
 python projects\01_sales_csv_to_warehouse\pipeline.py
 ```
+
+## Advanced wave topics
+
+- `09_numpy_for_data_engineering`
+- `10_pandas_for_etl`
+- `11_working_with_apis`
+- `12_python_database_libraries`
+- `13_testing_data_pipelines`
+- `14_scheduling_and_orchestration`
+- `15_warehouse_style_transformations`
